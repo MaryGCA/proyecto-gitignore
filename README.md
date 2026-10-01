@@ -18,7 +18,7 @@
 
 ## ⏱️ Lectura de 60 segundos (para quien solo tiene un minuto)
 
-| | |
+| Aspecto | Resumen |
 |---|---|
 | 😩 **Problema** | Desplegar y mantener infraestructura es lento, caro y propenso a errores humanos. |
 | 💡 **Solución** | InfraPilot convierte una descripción simple en servidores, redes y monitoreo funcionando, y los repara automáticamente. |
